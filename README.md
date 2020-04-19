@@ -1,0 +1,1 @@
+# kawalcovid19_app
